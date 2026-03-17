@@ -1,0 +1,6 @@
+Bibliotecas necessárias:
+cryptography
+pynput
+
+cryptography → usada para criptografar e descriptografar os arquivos no ransomware simulado.
+pynput → usada para capturar eventos do teclado no keylogger.
